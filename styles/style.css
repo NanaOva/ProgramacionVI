@@ -1,0 +1,27 @@
+
+body{
+    background-color:#131166;
+}
+#div_1 {
+   position:absolute;
+   background-color:#FC9B00;
+   margin:420px;
+   border: 3px solid #010101;
+   margin-top:-10px;
+   padding:20px;
+
+}
+h1{
+
+    color:#131166;
+    text-align: center;
+     
+}
+img{
+    display:block;
+    margin:auto;
+
+}
+
+
+
